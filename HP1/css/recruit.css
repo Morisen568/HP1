@@ -24,7 +24,7 @@
 }
 
 .recruit_top li small {
-  color: #ff8856;
+  color: #00ADA9;
 }
 
 #recruit_list1,
@@ -47,7 +47,7 @@
 
 .recruit_list h2 small {
   font-size: 12px;
-  color: #ff8856;
+  color: #00ADA9;
 }
 
 .recruit_list h3 {
@@ -82,7 +82,7 @@
 }
 
 .recruit_bg {
-  background: #eee;
+  background-color: #00ffff;
   width: 85%;
   height: auto;
   float: right;
@@ -115,7 +115,7 @@
 }
 
 .intern h1 span {
-  color: #ff8856;
+  color: #00ADA9;
 }
 
 .intern h1 small {
@@ -135,7 +135,22 @@
 }
 
 .member .member1 {
-  background: url(../img/member.png) center center no-repeat;
+  background: url(../img/8b2eb0a4.jpeg) center center no-repeat;
+  background-size: cover;
+}
+
+.member .member2 {
+  background: url(../img/suisu.jpeg) center center no-repeat;
+  background-size: cover;
+}
+
+.member .member3 {
+  background: url(../img/S__1736713.jpg) center center no-repeat;
+  background-size: cover;
+}
+
+.member .member4 {
+  background: url(../img/S__1736714.jpg) center center no-repeat;
   background-size: cover;
 }
 
@@ -176,7 +191,7 @@
 
 .intro_txt h2 small {
   font-size: 15px;
-  color: #ff8856;
+  color: #00ADA9;
 }
 
 .intro_descript {
@@ -202,7 +217,7 @@
   font-weight: bold;
   font-size: 40px;
   padding-right: 20px;
-  color: #ff8856;
+  color: #00ADA9;
 }
 
 .question_list {
