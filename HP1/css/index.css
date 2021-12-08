@@ -67,6 +67,10 @@
   padding-right: 50px;
 }
 
+.header_inner nav ul li a {
+  color: white;
+}
+
 .header_inner nav ul li .color {
   color: #00ADA9;
 }
